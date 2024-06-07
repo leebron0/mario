@@ -11,9 +11,6 @@ Arrow keys for direction
 
 'a' for jump
 
-'s' for action (fireball, run)
-
-
 DEPENDENCIES:
 
 Pygame 1.9.1 (Python 2)
